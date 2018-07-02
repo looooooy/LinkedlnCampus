@@ -1,0 +1,25 @@
+body.register {
+    background-image: url(../pictures/bg.jpeg);
+    color: #c0c0c0;
+}
+.regspanel {
+    position: absolute;
+ 	width: 400px;
+ 	height: 500px;
+ 	margin: auto;
+ 	top: 0;
+ 	left: 0;
+ 	bottom: 0;
+ 	right: 0;
+}
+.form-control {
+	text-align: right;
+}
+.row {
+	margin-top: 55px;
+}
+
+.table {
+	border-collapse:separate;
+	border-spacing:13px;
+}
