@@ -1,5 +1,5 @@
 body.register {
-    background-image: url(/pictures/bg.jpeg);
+    background-image: url(../pictures/bg.jpeg);
     color: #c0c0c0;
 }
 .regspanel {

@@ -1,5 +1,5 @@
 .signin {
-    background-image: url(/pictures/bg.jpeg);
+    background-image: url(../pictures/bg.jpeg);
 	color: #c0c0c0;
 
 }
@@ -29,5 +29,8 @@
 }
 
 a:visited {
+	color: azure;
+}
+a:link {
 	color: azure;
 }
